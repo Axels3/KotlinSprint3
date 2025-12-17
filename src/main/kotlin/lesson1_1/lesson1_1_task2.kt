@@ -5,7 +5,7 @@ fun main() {
 //  вариант прямо по тексту задачи
 
     val orderCount: Int = 75
-    val thankMessage: String = "Thank you for shopping!"
+    val thankMessage: String = "Thank you for shopping! "
 
     println(orderCount)
     println(thankMessage)
